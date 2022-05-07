@@ -1,0 +1,9 @@
+{
+  "variants":
+  {
+    "":
+    {
+      "model": "lzim:block/masterore_block"
+    }
+  }
+}

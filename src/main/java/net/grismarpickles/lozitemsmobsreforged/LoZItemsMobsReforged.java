@@ -1,6 +1,7 @@
 package net.grismarpickles.lozitemsmobsreforged;
 
 import com.mojang.logging.LogUtils;
+import net.grismarpickles.lozitemsmobsreforged.block.ModBlocks;
 import net.grismarpickles.lozitemsmobsreforged.item.ModItems;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
@@ -35,6 +36,7 @@ public class LoZItemsMobsReforged
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(eventBus);
+        ModBlocks.register(eventBus);
 
         eventBus.addListener(this::setup);
 

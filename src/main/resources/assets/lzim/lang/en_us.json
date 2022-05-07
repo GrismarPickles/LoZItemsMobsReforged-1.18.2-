@@ -1,5 +1,10 @@
 {
   "item.lzim.master_ore": "Master Ore",
   "item.lzim.loftsteel": "Loftsteel",
-  "item.lzim.raw_loftsteel": "Raw Loftsteel"
+  "item.lzim.raw_loftsteel": "Raw Loftsteel",
+
+  "block.lzim.loftsteel_ore": "Loftsteel Ore",
+  "block.lzim.raw_loftsteel_block": "Raw Loftsteel Block",
+  "block.lzim.loftsteel_block": "Loftsteel Block",
+  "block.lzim.masterore_block": "Master Ore Block"
 }

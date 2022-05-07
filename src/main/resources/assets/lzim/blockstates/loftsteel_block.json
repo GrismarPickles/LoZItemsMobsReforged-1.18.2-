@@ -1,0 +1,9 @@
+{
+  "variants":
+  {
+    "":
+    {
+      "model": "lzim:block/loftsteel_block"
+    }
+  }
+}

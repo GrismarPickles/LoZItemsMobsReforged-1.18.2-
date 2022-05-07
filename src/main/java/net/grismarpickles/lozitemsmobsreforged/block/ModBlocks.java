@@ -28,6 +28,8 @@ public class ModBlocks
             () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(9f).requiresCorrectToolForDrops()), CreativeModeTab.TAB_BUILDING_BLOCKS);
     public static final RegistryObject<Block> MASTERORE_BLOCK = registerBlock("masterore_block",
             () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(11f).requiresCorrectToolForDrops()), CreativeModeTab.TAB_BUILDING_BLOCKS);
+    public static final RegistryObject<Block> DEEPSLATE_MASTERORE_BLOCK = registerBlock("deepslate_masterore_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(16f).requiresCorrectToolForDrops()), CreativeModeTab.TAB_BUILDING_BLOCKS);
 
     private static <T extends Block>RegistryObject<T> registerBlock(String name, Supplier<T> block, CreativeModeTab tab)
     {

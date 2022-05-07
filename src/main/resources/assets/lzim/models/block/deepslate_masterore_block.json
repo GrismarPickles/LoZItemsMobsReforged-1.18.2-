@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures":
+  {
+    "all": "lzim:block/deepslate_masterore_block"
+  }
+}

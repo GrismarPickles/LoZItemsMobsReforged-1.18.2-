@@ -9,7 +9,7 @@ public class ModCreativeModeTab
     {
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModItems.MASTERORE.get());
+            return new ItemStack(ModItems.TRUE_MASTER_SWORD.get());
         }
     };
 }

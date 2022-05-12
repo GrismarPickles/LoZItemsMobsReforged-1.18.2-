@@ -7,5 +7,7 @@
   "block.lzim.raw_loftsteel_block": "Raw Loftsteel Block",
   "block.lzim.loftsteel_block": "Loftsteel Block",
   "block.lzim.masterore_block": "Master Ore",
-  "block.lzim.deepslate_masterore_block": "Master Ore"
+  "block.lzim.deepslate_masterore_block": "Master Ore",
+
+  "itemGroup.lzimtab01": "Legend of Zelda Items and Mobs"
 }

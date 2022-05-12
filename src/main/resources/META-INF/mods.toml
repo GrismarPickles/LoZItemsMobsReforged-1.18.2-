@@ -38,7 +38,7 @@ Legend of Zelda Items and Mobs Reforged is a 1.18.2 port and re-development of a
 
 This mod was aided by Tutorials for 1.18 modding and Java development made by Kaupenjoe. If you are looking to make your own mod, or expansions to this one, look him up on Youtube.
 
-Other than his coding tutorials all assets in this mod were made by GrismarPickles for this mod exclusively; however the copyright for most, if not all, content in this mod belongs to the creators of The Legend of Zelda series.
+The copyright for most, if not all, content in this mod belongs to the creators of The Legend of Zelda series.
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.lzim]] #optional

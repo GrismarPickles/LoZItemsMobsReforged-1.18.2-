@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "loftsteel",
+  "ingredient":
+  {
+    "item": "lzim:loftsteel_ore"
+  },
+  "result": "lzim:loftsteel",
+  "experience": 0.7,
+  "cookingtime": 200
+}

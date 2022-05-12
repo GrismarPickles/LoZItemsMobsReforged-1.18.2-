@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values":
+  [
+    "lzim:loftsteel_ore",
+    "lzim:loftsteel_block",
+    "lzim:raw_loftsteel_block",
+    "lzim:masterore_block",
+    "lzim:deepslate_masterore_block"
+  ]
+}

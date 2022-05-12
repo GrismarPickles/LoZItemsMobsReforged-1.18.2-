@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "loftsteel",
+  "ingredients":
+  [
+    {
+      "item": "lzim:loftsteel_block"
+    }
+  ],
+  "result":
+  {
+    "item": "lzim:loftsteel",
+    "count": 9
+  }
+}

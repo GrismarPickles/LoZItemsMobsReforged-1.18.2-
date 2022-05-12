@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "masterore",
+  "ingredient":
+  {
+    "item": "lzim:masterore_block"
+  },
+  "result": "lzim:master_ore",
+  "experience": 0.7,
+  "cookingtime": 200
+}

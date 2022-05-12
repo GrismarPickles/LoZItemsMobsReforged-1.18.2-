@@ -23,6 +23,9 @@ public class ModItems
     public static final RegistryObject<Item> RAWLOFTSTEEL = ITEMS.register("raw_loftsteel",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.LZIM_TAB)));
 
+    public static final RegistryObject<Item> GOATHORN = ITEMS.register("horn_goat",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.LZIM_TAB)));
+
     // Weapons ************
     public static final RegistryObject<Item> ORDON_SWORD = ITEMS.register("ordon_sword",
             () -> new SwordItem(ModTiers.ORDONTIER, 5, -2.4f,
@@ -41,7 +44,7 @@ public class ModItems
                     new Item.Properties().tab(ModCreativeModeTab.LZIM_TAB)));
 
     public static final RegistryObject<Item> MASTER_SWORD = ITEMS.register("master_sword",
-            () -> new SwordItem(ModTiers.MASTERTIER, 8, -2.2f,
+            () -> new SwordItem(ModTiers.MASTERTIER, 9, -2.2f,
                     new Item.Properties().tab(ModCreativeModeTab.LZIM_TAB)));
 
     public static final RegistryObject<Item> TRUE_MASTER_SWORD = ITEMS.register("true_master_sword",

@@ -3,6 +3,7 @@ package net.grismarpickles.lozitemsmobsreforged;
 import com.mojang.logging.LogUtils;
 import net.grismarpickles.lozitemsmobsreforged.block.ModBlocks;
 import net.grismarpickles.lozitemsmobsreforged.item.ModItems;
+import net.grismarpickles.lozitemsmobsreforged.painting.ModPaintings;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.common.MinecraftForge;
@@ -37,6 +38,8 @@ public class LoZItemsMobsReforged
 
         ModItems.register(eventBus);
         ModBlocks.register(eventBus);
+
+        ModPaintings.register(eventBus);
 
         eventBus.addListener(this::setup);
 

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "I",
+    "I",
+    "H"
+  ],
+  "key":
+  {
+    "I":
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    "H":
+    {
+      "item": "lzim:horn_goat"
+    }
+  },
+  "result":
+  {
+    "item": "lzim:ordon_sword"
+  }
+}
